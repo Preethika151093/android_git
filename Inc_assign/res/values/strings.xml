@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inc_assign</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_field">Enter the text</string>
+      <string name="button_text">SUBMIT</string>
+      <string name="text_field2">Enter the text</string>
+      <string name="button_text2">SUBMIT</string>
+      <string name="text_field3">Enter the text</string>
+      <string name="button_text3">SUBMIT</string>
+
+</resources>
